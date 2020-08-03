@@ -3,7 +3,7 @@
 **My implementation of Tsinghua University's Deep Learning Summer School Individual Lab**
 
 
-Given a natural language text, sentiment label was classified with five-class sentiment labels:
+Given a natural language text, sentiment was classified with five-class sentiment labels:
 
 - 0 (very negative)
 - 1 (negative)
